@@ -2,8 +2,35 @@ let js = "Amazing";
 
 // if (js === "Amazing") alert("Javascrit is Fun!");
 
+/*  ----------------------  Data Types  ----------------------  */
+
+// The 7 Primitive Data Types
+
+//  1. Number
+//  2. String
+//  3. Boolean
+//  4. Undefined
+//  5. Null
+//  6. Symbol
+//  7. BigInt
+
+//  Javascript has Dynamic Typing.
+
+let javascriptIsFun = true;
+console.log(javascriptIsFun);
+console.log(typeof javascriptIsFun);
+
+console.log(typeof true);
+console.log(typeof 23);
+console.log(typeof "Saurav");
+
+javascriptIsFun = "Absolutely";
+console.log(javascriptIsFun);
+console.log(typeof javascriptIsFun);
+
 /*  ----------------------  Values and Variables  ----------------------  */
 
+/*
 let firstName = "Saurav";
 let lastName = "Verma";
 
@@ -20,6 +47,8 @@ console.log(firstName + " " + lastName);
 // 4. Constant values are name in all Caps.
 // 5. Give your variables a clear and descriptive variable names (Clean Code).
 
+
+*/
 /*  ----------------------  Console Method ----------------------  */
 
 /* 
