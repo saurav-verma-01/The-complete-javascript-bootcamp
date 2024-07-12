@@ -2,6 +2,27 @@ let js = "Amazing";
 
 // if (js === "Amazing") alert("Javascrit is Fun!");
 
+/*  ----------------------  String Template / Template Literals  ----------------------  */
+// const firstName = "Saurav";
+// const job = "Frontend Developer";
+// const birthYear = 1998;
+
+// const saurav =
+//   "I'm " + firstName + ", a " + (2024 - birthYear) + " old " + job + ".";
+
+// const saurav2 = `I'm ${firstName}, a ${2024 - birthYear} old ${job}.`;
+
+// console.log(saurav);
+// console.log(saurav2);
+
+/*  ----------------------  Basic Operators  ----------------------  */
+
+// Addition + , Subtraction - , multiple * , division / , modulus % , power **
+// typeof Operator - type of the value
+// Assignemnt operatos -> = , += , -= , *=, /* , ++, --
+// Comparison Operatos - (Produce Boolean Values) <, >, <=, >=, !, ==, ===, !=, !== etc.
+// Operator Precedence - Paranthesis, Exponents, Division, Multiple, Addition, Subtraction
+
 /*  ----------------------  Data Types  ----------------------  */
 
 // The 7 Primitive Data Types
@@ -16,17 +37,17 @@ let js = "Amazing";
 
 //  Javascript has Dynamic Typing.
 
-let javascriptIsFun = true;
-console.log(javascriptIsFun);
-console.log(typeof javascriptIsFun);
+// let javascriptIsFun = true;
+// console.log(javascriptIsFun);
+// console.log(typeof javascriptIsFun);
 
-console.log(typeof true);
-console.log(typeof 23);
-console.log(typeof "Saurav");
+// console.log(typeof true);
+// console.log(typeof 23);
+// console.log(typeof "Saurav");
 
-javascriptIsFun = "Absolutely";
-console.log(javascriptIsFun);
-console.log(typeof javascriptIsFun);
+// javascriptIsFun = "Absolutely";
+// console.log(javascriptIsFun);
+// console.log(typeof javascriptIsFun);
 
 /*  ----------------------  Values and Variables  ----------------------  */
 
