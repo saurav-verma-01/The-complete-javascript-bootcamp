@@ -2,6 +2,24 @@ let js = "Amazing";
 
 // if (js === "Amazing") alert("Javascrit is Fun!");
 
+/*  ----------------------  Type Conversion vs Type Coercion  ----------------------  */
+
+// const inputYear = "1991";
+// console.log(Number(inputYear), inputYear);
+// console.log(inputYear + 18, Number(inputYear) + 18);
+
+// console.log(Number("Jonas"));
+// console.log(typeof NaN);
+
+// console.log(String(23), 23);
+
+// const age = 26;
+
+// console.log(String(age));
+// console.log(age);
+// console.log(age.toString());
+// console.log(age);
+
 /*  ----------------------  String Template / Template Literals  ----------------------  */
 // const firstName = "Saurav";
 // const job = "Frontend Developer";
